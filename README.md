@@ -1,2 +1,1 @@
 # Python
-Python çalışma,öğrenme
